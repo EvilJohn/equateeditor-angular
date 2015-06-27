@@ -1,0 +1,1 @@
+Based on https://github.com/g00glen00b/ng-spring-boot
